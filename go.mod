@@ -1,3 +1,3 @@
-module github.com/Sohbetbackend/utensils
+module github.com/Sohbetbackend/utensils/v2
 
 go 1.20
